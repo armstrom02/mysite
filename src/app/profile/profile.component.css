@@ -1,0 +1,26 @@
+
+
+.contact-detail{
+width:100% ;
+word-wrap: break-word;
+
+max-width: 800px;
+
+}
+
+.profile{
+    
+}
+
+img{
+    margin: 20px 0px;
+}
+
+.social-icon:hover{
+    color: #117a65;
+}
+.proffesionalProfile{    
+    margin-top:30px;
+     font-size:100%;
+     text-align: center;
+}

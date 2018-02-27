@@ -1,0 +1,25 @@
+
+.col-sm-6{
+
+    /* border: 1px solid blue;  */
+    padding :20px 40px;
+    border-radius: 15px;
+    margin: 10px 0px;
+}
+
+.heading{
+    text-align: left;
+    border-bottom: 2px solid rgb(78, 78, 78);
+   
+}
+h6{
+   
+}
+p{
+    margin-top: 10px;
+    text-align: justify;
+}
+.row{
+    margin-top: 20px;
+   
+}
